@@ -32,7 +32,7 @@ export class PorCapitalComponent implements OnInit {
         console.log("error", error); 
       }
     ); 
-  } 
+  }
 
 
 }
